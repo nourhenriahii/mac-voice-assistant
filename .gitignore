@@ -1,0 +1,18 @@
+# Secrets (never commit these)
+.env
+
+# Personal data
+journal.jsonl
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
